@@ -1,5 +1,7 @@
 # US Arts Participation and Socioeconomic Status Analysis
 
+<img width="720" height="375" alt="image" src="https://github.com/user-attachments/assets/9115cdde-479a-452d-8596-29541194eb12" />
+
 ## Project Overview
 This repository contains the R code for a statistical analysis examining the association between **state-level poverty** and **individual participation in arts and cultural activities** across the United States, using 2012 survey data.
 
